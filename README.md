@@ -11,7 +11,7 @@
 
 ## 学習メモ
 
-1. [Web技術とは]()
+1. [Web技術とは](https://github.com/ababa893/web_study/blob/master/ch1/memo.md)
 2. [Webとネットワーク技術]()
 3. [HTTPでやりとりする仕組み]()
 4. [Webのさまざまなデータ形式]()
